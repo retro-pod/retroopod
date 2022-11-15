@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Retropod
+- 👀 I make malwares for a living
+- 🌱 I’m currently learning Go and Javascript
+- 💞️ I’m looking to collaborate on Urix
+- 📫 Reach me at retropod@proton.me
